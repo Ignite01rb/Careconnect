@@ -1,0 +1,14 @@
+[
+    {
+        "bedNumber": "101",
+        "patientName": "John Doe",
+        "admissionDate": "2023-09-01",
+        "expectedDischarge": "2023-09-10"
+    },
+    {
+        "bedNumber": "102",
+        "patientName": "Jane Smith",
+        "admissionDate": "2023-09-02",
+        "expectedDischarge": "2023-09-11"
+    }
+]
